@@ -3,7 +3,9 @@ Ex08-Windows-basic-commands-batchscript
 
 # AIM:
 To execute Windows basic commands and batch scripting
+
 name:Ameesha jeffi J
+
 reg no:212223220007
 
 # DESIGN STEPS:
@@ -32,7 +34,7 @@ Create a directory named "MyLab" on the desktop.
 ```
 mkdir %userprofile%\Desktop\MyLab
 ```
-![328876486-e82e2f99-bead-4ce0-a456-acc495de960e](https://github.com/ameeshajeffi/Windows-basic-commands-batchscript/assets/150773598/0041558b-aac8-405e-9ce8-486492865459)
+![329658320-0d1c931c-0132-467e-a239-1a645505b196](https://github.com/ameeshajeffi/Windows-basic-commands-batchscript/assets/150773598/0c8dc067-e4f1-4c9c-b2c3-99c60ef2521c)
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
 # COMMAND AND OUTPUT:
@@ -93,10 +95,9 @@ mkdir %userprofile%\Desktop\DocBackup
 copy %userprofile%\Documents\*.docx %userprofile%\Desktop\DocBackup
 echo Backup completed successfully!
 ```
+![329660834-0594a6df-84d8-4328-a347-5e6ca215a41c](https://github.com/ameeshajeffi/Windows-basic-commands-batchscript/assets/150773598/21f72afd-bd92-43ea-8f28-f710964c350a)
 
-## OUTPUT
 
-![328876946-c6377772-a55f-4d77-9d2c-78ea30ece3d9](https://github.com/ameeshajeffi/Windows-basic-commands-batchscript/assets/150773598/77ca39c3-8e9f-491d-8a2f-72e6fdfc6192)
 
 # COMMAND:
 ```
